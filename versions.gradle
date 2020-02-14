@@ -1,0 +1,15 @@
+ext.versions = [
+        gradle: '3.5.1',
+        kotlin: '1.3.50',
+        jacoco: '0.8.5',
+        appcompat: '1.0.2',
+        coreKtx: '1.2.0',
+        kotlinCoroutineCore: '1.3.3',
+        junit: '4.12',
+        androidxJunit: '1.1.0',
+        espressoCore: '3.1.1',
+        room: '2.2.3',
+        lifecycle: '2.2.0',
+        archCoreTesting: '2.1.0',
+        robolectric: '4.3'
+]
